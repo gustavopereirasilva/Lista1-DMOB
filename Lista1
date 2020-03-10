@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lista 1</title>
+</head>
+<body>
+	<h1> Lista de exercícios de HTML</h1>
+	<l1> 1) Faça uma página em html para exibir o seguinte resultado:</l1>
+	<ol type="1">
+		<li> Fechar o contrato </li>
+		<li> Análise de sistema </li>
+		<ol type="1">
+			<li> Avaliação da empresa </li>
+				<ol type="1">
+					<li> Entrevista com</li>
+					funcionários</li>
+					<li> Pesquisa de</li>
+					documentação da<br>
+					empresa</li>
+                </ol>
+            <li> Programação </li>
+            <li> Aprovação do projeto </li>
+    	</ol>
+    	<li> Treinamento dos usuários</li>
+		</ol>
+	<l1> 2) Faça uma página em html para exibir o seguinte resultado:
+	<ol type="1">
+		<li> Titanic </li>
+		<li> Meu primeiro amor </li>
+		<li> Uma linda mulher </li>
+	</ol>
+	<ol start="10">
+		<li> Exterminador do futuro II</li>
+		<li> De volta para o futuro I, II, III </li>
+		<li> Indiana Jones </li>
+	</ol>
+	<ol start="20">
+		<li> Sexta-feira 13</li>
+		<li> A hora do pesadelo </li>
+	</ol>
+	<l1> 3) Faça uma página com o seguinte efeito:</l1>
+		<p><img src="https://img.elo7.com.br/product/zoom/28437AC/adesivo-de-parede-game-over-gamer-stardix-stardix.jpg" alt="Game Over" style="width:128px;height:128px;">Com esta página estou mostrando uma forma de colocar um texto entre duas figuras.
+			<img src="https://img.elo7.com.br/product/zoom/28437AC/adesivo-de-parede-game-over-gamer-stardix-stardix.jpg" alt="Game Over" style="width:128px;height:128px;"></p>
+	<l1> 4) Faça uma página com o seguinte efeito:</l1>
+		<div>
+		<p><img align="left" width="300" height="150" src="https://multigraphias.files.wordpress.com/2011/06/im-not-dog-no.jpg"></div><h1>I'm not dog no</h1>
+
+		I'm not dog no, for live so humble<br>
+		I'm not dog no, for you be so very far<br>
+		You don't know understand who is love, who is like<br>You just know get it mistake<br>
+		And so there I go away<br>
+		<br>
+		Worst thing of the world<br>
+		Is to love very back<br>
+		Who say no to big love<br>
+		Doesn't matter to be happy<br>
+		Oh, so little to be love<br>
+		You should understand<br>
+		That for you I have passion<br>
+		For our love, for love God<br>
+		I'm not dog no<br>
+		For our love, for love God<br>
+		I'm not dog no<br>
+		<div align="center"> Falcão</div>
+	<l1> 5) Faça uma página para exibir a seguinte tabela:</l1>
+		<table style="width:60%">
+		<tr>
+			<th> Processador</th>
+			<th> Velocidade (MHz)</th>
+			<th> Preço de Lançamento*</th>
+			<th> Data de Lançamento</th>
+			<th> Preços em Agosto/2000*</th>
+			<th> Queda %</th>
+		<tr>
+			<td> AMD K-6</td>
+			<td> 200</td>
+			<td> 315</td>
+			<td> Abril/97</td>
+			<td> 107</td>
+			<td> 66</td>
+		<tr>
+			<td> AMD K-6</td>
+			<td> 233</td>
+			<td> 437</td>
+			<td> Maio/97</td>
+			<td> 284</td>
+			<td> 35</td>
+		<tr>
+			<td> Cyrix 6x86</td>
+			<td> 200</td>
+			<td> 240</td>
+			<td> Maio/97</td>
+			<td> 188</td>
+			<td> 22</td>
+		<tr>
+			<td> Cyrix 6x86</td>
+			<td> 233</td>
+			<td> 320</td>
+			<td> Maio/97</td>
+			<td> 290</td>
+			<td> 9</td>
+		<tr>
+			<td> Intel Pentium II</td>
+			<td> 233</td>
+			<td> 636</td>
+			<td> Maio/97</td>
+			<td> 530</td>
+			<td> 17</td>
+		<tr>
+			<td> Intel Pentium II</td>
+			<td> 266</td>
+			<td> 775</td>
+			<td> Maio/97</td>
+			<td> 699</td>
+			<td> 10</td>
+		</tr>
+		</tr>
+		</tr>	
+		</tr>
+		</tr>	
+		</tr>
+		</table>
+		<p><small>*Preços FOB da unidade em US$ para lotes de mil, o preço no Brasil fica em média 25% mais caro.</small>
+		<p><small> Informações retiradas da revista Informática Exame de setembro/1977</small></p>
+</body>
+</html>
